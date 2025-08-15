@@ -1,6 +1,6 @@
 ---
 
-# 🧗 **BoulderBot\_Offline**
+🧗 **BoulderBot\_Offline**
 
 **AI-Powered Bouldering Coach – Works 100% Offline**
 
