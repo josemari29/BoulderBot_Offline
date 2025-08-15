@@ -1,14 +1,92 @@
 [
   {
-    "question": "How can I improve my grip strength?",
-    "answer": "Focus on fingerboard training 3 times a week. Include open-hand hangs, crimps, and pinch grips. Always warm up your fingers before starting."
+    "topic": "Grip Technique",
+    "level": "Beginner",
+    "question": "What is a crimp hold and how should I grip it safely?",
+    "answer": "A crimp hold is a small edge where your fingertips rest with your first knuckle bent. For safety, use an 'open crimp' with slightly bent fingers instead of a full crimp to reduce tendon strain. Keep your thumb relaxed and avoid over-squeezing."
   },
   {
-    "question": "Best way to warm up for bouldering?",
-    "answer": "Start with light stretching, then easy climbing routes. Include dynamic movements for shoulders and wrists."
+    "topic": "Grip Technique",
+    "level": "Intermediate",
+    "question": "How can I improve my sloper grip?",
+    "answer": "For slopers, maintain open-hand contact, engage your shoulders, and use your core to keep weight over your feet. Press your palms and fingers evenly into the hold, and adjust your hips to stay balanced rather than relying only on arm strength."
   },
   {
-    "question": "How often should I train bouldering as a beginner?",
-    "answer": "2–3 times per week is enough to build strength and technique while avoiding injury. Rest days are essential."
+    "topic": "Grip Technique",
+    "level": "Advanced",
+    "question": "How can I master pinch grips on steep terrain?",
+    "answer": "Pinches require thumb engagement and forearm strength. Squeeze the hold with your thumb opposing your fingers, keep elbows close to your body, and engage your lats to take strain off your hands. Train using pinch blocks and campus board pinch rungs."
+  },
+  {
+    "topic": "Training",
+    "level": "Beginner",
+    "question": "How often should I climb per week as a new climber?",
+    "answer": "Start with 2–3 sessions per week, with at least one rest day between climbs. Focus on movement quality over quantity and stop before finger pain or excessive fatigue to prevent overuse injuries."
+  },
+  {
+    "topic": "Training",
+    "level": "Intermediate",
+    "question": "What’s the best way to increase my lock-off strength?",
+    "answer": "Incorporate weighted pull-ups, static lock-off holds at different angles, and slow, controlled descents from the top of a pull-up. Combine this with core engagement drills to maintain stability while locked off."
+  },
+  {
+    "topic": "Training",
+    "level": "Advanced",
+    "question": "How do I train for explosive power in bouldering?",
+    "answer": "Include campus board double dynos, explosive pull-ups, and practicing dynamic jumps between holds. Limit to 1–2 times a week and balance with antagonist muscle training to protect joints."
+  },
+  {
+    "topic": "Safety",
+    "level": "Beginner",
+    "question": "How do I fall safely in bouldering?",
+    "answer": "Land with feet shoulder-width apart, bend your knees on impact, and roll onto your back if you can’t stick the landing. Keep arms tucked to avoid wrist injuries."
+  },
+  {
+    "topic": "Safety",
+    "level": "Intermediate",
+    "question": "How can I avoid finger injuries during training?",
+    "answer": "Warm up gradually with easy problems, include finger-specific stretches, and limit hangboard or campus training to after you’ve built a solid climbing base. Avoid sudden maximal pulls on cold fingers."
+  },
+  {
+    "topic": "Route Reading",
+    "level": "Intermediate",
+    "question": "What’s the best way to read a bouldering problem?",
+    "answer": "Study the route from bottom to top, identifying starting holds, key footholds, and possible cruxes. Mentally rehearse movements and note any places to rest or shake out."
+  },
+  {
+    "topic": "Route Reading",
+    "level": "Advanced",
+    "question": "How can I anticipate beta changes mid-climb?",
+    "answer": "Look for backup options before starting—alternate footholds, different body positions, or hand swaps. Be ready to adjust if a planned move feels off, and trust your instincts to improvise efficiently."
+  },
+  {
+    "topic": "Competition",
+    "level": "Advanced",
+    "question": "How can I maximize my performance during a bouldering competition?",
+    "answer": "Arrive early to warm up, watch other climbers for beta, and manage attempts to avoid fatigue. Focus on problem-solving and movement efficiency rather than brute force."
+  },
+  {
+    "topic": "Injury Prevention",
+    "level": "Beginner",
+    "question": "What stretches should I do after climbing?",
+    "answer": "Stretch your forearms, shoulders, and hips. Examples: wrist flexor and extensor stretches, shoulder openers, and hip flexor stretches. Hold each for 20–30 seconds."
+  },
+  {
+    "topic": "Injury Prevention",
+    "level": "Advanced",
+    "question": "How can I bulletproof my shoulders for climbing?",
+    "answer": "Add rotator cuff strengthening, scapular retraction drills, and slow controlled overhead pressing. Strengthen antagonist muscles like chest and triceps to maintain joint balance."
+  },
+  {
+    "topic": "Gear",
+    "level": "Beginner",
+    "question": "What should I look for in my first pair of climbing shoes?",
+    "answer": "Choose a snug but not painful fit, a flat or slightly downturned shape, and sticky rubber. Avoid aggressive shoes until your footwork improves."
+  },
+  {
+    "topic": "Gear",
+    "level": "Intermediate",
+    "question": "Do I need different shoes for overhangs?",
+    "answer": "A moderately downturned shoe with a stiff toe box helps on steep routes, allowing better toe hooks and edging. However, keep comfort in mind for longer sessions."
   }
 ]
