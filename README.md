@@ -1,39 +1,83 @@
-# BoulderBot_Offline
-BoulderBot_Offline – AI-Powered Bouldering Coach (Offline Version)
+---
 
-BoulderBot_Offline is a locally runnable AI chatbot designed to provide personalized bouldering advice, tips, and safety guidance without requiring an internet connection. Built using the DeepSeek-R1:8B model, this offline version integrates a custom knowledge base of climbing techniques and training strategies, making it an ideal companion for climbers of all skill levels.
+# 🧗 **BoulderBot\_Offline**
 
-Key Features:
+**AI-Powered Bouldering Coach – Works 100% Offline**
 
-Offline NLP Chatbot: Fully functional AI assistant capable of answering bouldering-related questions without an internet connection.
+BoulderBot\_Offline is a **fully offline AI chatbot** that gives **personalized bouldering tips, safety guidance, and training advice** — no Wi-Fi required.
 
-Custom Knowledge Base: Uses a JSON dataset of curated bouldering questions and answers to provide context-aware guidance.
+Powered by the **DeepSeek-R1:8B** model and a **custom climbing knowledge base**, it’s your on-demand coach whether you’re in the gym, at the crag, or training at home.
 
-Concise, Friendly Responses: Model output is filtered to remove internal “thinking” content, delivering clean, actionable advice.
+---
 
-Interactive CLI Experience: Includes a vertical “climber wall” loading animation for a fun, immersive interface while the model generates responses.
+## 🚀 **Features**
 
-Conversation History Tracking: Maintains dialogue context for more relevant follow-up advice.
+* 📡 **Completely Offline** – Runs locally, no internet or cloud access needed.
+* 🧠 **Custom Climbing Knowledge Base** – Covers grip, movement, route reading, and injury prevention.
+* 💬 **Clean, Actionable Responses** – Filters out AI “thinking” for clear answers.
+* 🎮 **Immersive CLI Experience** – Vertical “climber wall” loading animation while generating replies.
+* 🔄 **Context-Aware Conversations** – Maintains dialogue history for better follow-up advice.
+* 🛠 **Extensible Dataset** – Easily add new climbing tips or training info.
 
-Extensible Dataset: Users can easily expand the knowledge base with additional climbing tips or training insights.
+---
 
-Use Cases:
+## 🏆 **Use Cases**
 
-Quickly get climbing advice while at the gym or outdoors without needing a Wi-Fi connection.
+* Quick beta & safety tips without a phone signal.
+* Beginner coaching on grip, footwork, and efficiency.
+* Prototype for niche, offline AI assistants.
 
-Train beginner or intermediate climbers on grip, technique, route-finding, and safety practices.
+---
 
-Serve as a prototype for offline AI assistants in niche applications.
+## 🛠 **Tech Stack**
 
-Tech Stack:
+| Component        | Details                                    |
+| ---------------- | ------------------------------------------ |
+| **Language**     | Python 3.10+                               |
+| **Model**        | DeepSeek-R1:8B via Ollama (offline)        |
+| **Data Storage** | JSON                                       |
+| **Interface**    | CLI with threading & subprocess animations |
 
-Python 3.10+
+---
 
-DeepSeek-R1:8B offline model via Ollama
+## 📦 **Installation & Setup**
 
-JSON for knowledge base storage
+**1️⃣ Clone the repository**
 
-Threading and subprocess modules for interactive CLI experience
+```bash
+git clone https://github.com/yourusername/BoulderBot_Offline.git
+cd BoulderBot_Offline
+```
 
-Getting Started:
-Clone the repository or download the files, ensure the DeepSeek-R1:8B model is installed locally via Ollama, and run BoulderBot_Offline.py. Type your climbing questions into the CLI and receive context-aware advice in real time.
+**2️⃣ Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+**3️⃣ Install the model via Ollama**
+
+```bash
+ollama pull deepseek-r1:8b
+```
+
+**4️⃣ Run BoulderBot**
+
+```bash
+python BoulderBot_Offline.py
+```
+
+**5️⃣ Start chatting!**
+Example:
+
+```
+> How can I improve my heel hooks?
+```
+
+---
+
+## 📄 **License**
+
+MIT License – Free to use, modify, and share.
+
+
